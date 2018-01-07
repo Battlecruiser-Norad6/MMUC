@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  dat_dungeon_gam.cpp
+  dat_dungeon_gam.vcxproj -> C:\Users\gx\Desktop\Library\2017\Visual Studio Projects\dat_dungeon_gam\Debug\dat_dungeon_gam.exe
+  dat_dungeon_gam.vcxproj -> C:\Users\gx\Desktop\Library\2017\Visual Studio Projects\dat_dungeon_gam\Debug\dat_dungeon_gam.pdb (Full PDB)

@@ -1,0 +1,34 @@
+1/5/2018 1:26AM - Jason
+>compiled codes from Suilyn (Hero,Position)
+>major updates on Hero and Position (undocumented as I just thought of this just now.)
+>now dungeon class can import txt files.
+>display function now displays border
+>added enum types for dungeon class
+>added debugging tool (debugger class) for debugging purposes
+
+[idea/to be completed parts]
+>wall collision detection unchecked [important]
+>no ending position check [important]
+>text files for the map are located in the directory dat_dungeon_gam\testmap.txt
+>you may create your own maps for testing.
+>just change the filename in the dat_dungeon_gam main function
+
+
+1/6/2018 4:15PM - Jason TLDR : VERSION 1 COMPLETED
+>further improved position class (overriding for assignment operators)
+>Now we can include starting position and ending position IN the text file
+>New function to evaluate board size based on text file alone.
+>major fix to collision, now after collision with wall, hero can move normally
+	(this wasn't resolved nicely in the last update)
+>major fix to dungeon class, including a variety of new functions to ease information flow
+	between dungeon class and the game_master class
+>added victory condition, now we have an actual game
+	the game will end with the hero touches the 't' (don't ask me why this character)
+
+[idea]
+>GUI can be better fixed...
+>keyboard inputs ??
+>up next :
+	energy
+	monster
+	food

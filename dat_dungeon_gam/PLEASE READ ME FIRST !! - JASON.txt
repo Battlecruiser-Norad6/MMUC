@@ -1,0 +1,16 @@
+hello Sui Lyn and Dillon,
+
+please update the txt file changelog after your work on this project.
+this helps us to be more coordinated.
+
+also, please comment on your code with a nametag on it.
+
+example
+//blablabla -Suilyn
+
+//blablabla
+//blablablblablaa -GreatJiJianSensei
+
+thank you
+
+-Jason
